@@ -11,9 +11,9 @@ Languages: English, Hindi, French(Learning)
 Computer languages: Python
 
 💡 My Projects
-Here are a few projects I've been working on:
-
+Here are a few projects I've been working on or worked on:
 Project 1: Active Directory Project(Home Lab)
+
 Project 2: T-Pot Honeypot Project
 
 💬 Quote
